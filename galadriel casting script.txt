@@ -1,0 +1,35 @@
+[CHAT WINDOW TEXT] [Wed Oct 12 17:12:55] Galadriel  Softleaf summons familiar.
+[CHAT WINDOW TEXT] [Wed Oct 12 17:12:55] Summoned a creature
+[CHAT WINDOW TEXT] [Wed Oct 12 17:12:57] Galadriel  Softleaf uses Rod of the Ghost
+[CHAT WINDOW TEXT] [Wed Oct 12 17:13:03] Galadriel  Softleaf casting Energy Buffer
+[CHAT WINDOW TEXT] [Wed Oct 12 17:13:04] Galadriel  Softleaf casts Energy Buffer
+[CHAT WINDOW TEXT] [Wed Oct 12 17:13:06] Galadriel  Softleaf casting Improved Invisibility
+[CHAT WINDOW TEXT] [Wed Oct 12 17:13:07] Galadriel  Softleaf casts Improved Invisibility
+[CHAT WINDOW TEXT] [Wed Oct 12 17:13:09] Galadriel  Softleaf casting Stoneskin
+[CHAT WINDOW TEXT] [Wed Oct 12 17:13:10] Galadriel  Softleaf casts Stoneskin
+[CHAT WINDOW TEXT] [Wed Oct 12 17:13:12] Galadriel  Softleaf casting Greater Magic Weapon
+[CHAT WINDOW TEXT] [Wed Oct 12 17:13:13] Galadriel  Softleaf casts Greater Magic Weapon
+[CHAT WINDOW TEXT] [Wed Oct 12 17:13:15] Galadriel  Softleaf casting Flame Weapon
+[CHAT WINDOW TEXT] [Wed Oct 12 17:13:16] Galadriel  Softleaf casts Flame Weapon
+[CHAT WINDOW TEXT] [Wed Oct 12 17:13:18] Galadriel  Softleaf casting Endure Elements
+[CHAT WINDOW TEXT] [Wed Oct 12 17:13:19] Galadriel  Softleaf casts Endure Elements
+[CHAT WINDOW TEXT] [Wed Oct 12 17:13:21] Galadriel  Softleaf casting Greater Magic Weapon
+[CHAT WINDOW TEXT] [Wed Oct 12 17:13:22] Galadriel  Softleaf casts Greater Magic Weapon
+[CHAT WINDOW TEXT] [Wed Oct 12 17:13:24] Galadriel  Softleaf casting Flame Weapon
+[CHAT WINDOW TEXT] [Wed Oct 12 17:13:25] Galadriel  Softleaf casts Flame Weapon
+[CHAT WINDOW TEXT] [Wed Oct 12 17:13:27] Galadriel  Softleaf casting Magic Circle against Evil
+[CHAT WINDOW TEXT] [Wed Oct 12 17:13:28] Galadriel  Softleaf casts Magic Circle against Evil
+[CHAT WINDOW TEXT] [Wed Oct 12 17:13:30] Galadriel  Softleaf casting Shield
+[CHAT WINDOW TEXT] [Wed Oct 12 17:13:31] Galadriel  Softleaf casts Shield
+[CHAT WINDOW TEXT] [Wed Oct 12 17:13:33] Galadriel  Softleaf casting Greater Stoneskin
+[CHAT WINDOW TEXT] [Wed Oct 12 17:13:34] Galadriel  Softleaf casts Greater Stoneskin
+[CHAT WINDOW TEXT] [Wed Oct 12 17:13:36] Galadriel  Softleaf casting Premonition
+[CHAT WINDOW TEXT] [Wed Oct 12 17:13:37] Galadriel  Softleaf casts Premonition
+[CHAT WINDOW TEXT] [Wed Oct 12 17:13:39] Galadriel  Softleaf casting Lesser Mind Blank
+[CHAT WINDOW TEXT] [Wed Oct 12 17:13:40] Galadriel  Softleaf casts Lesser Mind Blank
+[CHAT WINDOW TEXT] [Wed Oct 12 17:13:42] Galadriel  Softleaf casting Shadow Shield
+[CHAT WINDOW TEXT] [Wed Oct 12 17:13:43] Galadriel  Softleaf casts Shadow Shield
+[CHAT WINDOW TEXT] [Wed Oct 12 17:13:45] Galadriel  Softleaf casting Spell Mantle
+[CHAT WINDOW TEXT] [Wed Oct 12 17:13:46] Galadriel  Softleaf casts Spell Mantle
+[CHAT WINDOW TEXT] [Wed Oct 12 17:13:48] Galadriel  Softleaf casting True Seeing
+[CHAT WINDOW TEXT] [Wed Oct 12 17:13:49] Galadriel  Softleaf casts True Seeing
