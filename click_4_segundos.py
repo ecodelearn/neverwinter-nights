@@ -27,7 +27,7 @@ pyautogui.click()
 time.sleep(0.2)
 
 count = 0
-while (count < 20):   
+while (count < 34):   
   count = count + 1
   PressKey(n1) # Select poiton options Percy Benzor
   ReleaseKey(n1)
